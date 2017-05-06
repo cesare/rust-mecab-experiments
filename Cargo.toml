@@ -1,0 +1,7 @@
+[package]
+name = "mecab-experiments"
+version = "0.1.0"
+authors = ["SAWADA Tadashi <cesare@mayverse.jp>"]
+
+[dependencies]
+mecab = "0.1.3"
